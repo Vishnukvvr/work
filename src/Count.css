@@ -1,0 +1,22 @@
+
+
+
+.count{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.count p{
+    font-size: 7rem;
+}
+.count button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: blue;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}

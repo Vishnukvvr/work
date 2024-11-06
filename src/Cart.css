@@ -1,0 +1,18 @@
+ 
+ .cart{
+    border: 2px solid black;
+    border-radius:20px ;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+ }
+ .cart p{
+    font-size: 3rem;
+ }
+ .App{
+    display: flex;
+ }

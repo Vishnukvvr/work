@@ -1,0 +1,11 @@
+
+.student{
+    text-align: center;
+    color: aqua;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.image{
+    width: 300px;
+    border-radius: 20px;
+}
